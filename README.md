@@ -16,9 +16,10 @@ the team's own field data.
   control).
 - **Methods timeline** — a scroll-driven, five-step walkthrough of the lab procedure: collect,
   sieve & concentrate, digest, filter & dry, count.
-- **Field notes** — a look at the team's sample-bottle naming log and contamination-control
-  process (pink lab attire flags self-contamination).
-- **FAQ** — an accordion answering common questions about the study.
+- **Field notes** — a look at the team's sample-bottle naming log, a small ritual for keeping
+  months of data straight across a four-person team.
+- **FAQ** — an accordion answering common questions about the study, including the team's
+  contamination-control process (pink lab attire flags self-contamination fibers on a filter).
 - Scroll-triggered animations throughout via Framer Motion.
 
 ## Tech stack
@@ -44,8 +45,8 @@ npm run preview    # preview the production build locally
 ## Data
 
 Sample site coordinates and particle counts (`src/data/sites.js`) are the team's own field data,
-originally exported from a kepler.gl map. Landscape and wildlife photography is public domain,
-courtesy of the U.S. Forest Service and Bureau of Land Management.
+originally exported from a kepler.gl map. Landscape photography is public domain, courtesy of the
+U.S. Forest Service and Bureau of Land Management.
 
 ## Deployment
 
